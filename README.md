@@ -1,8 +1,14 @@
-🌳 Dynamic Tree Simulation – Interactive Number Game
+# 🌳 Dynamic Tree Simulation – Interactive Number Game
 
 An interactive Dynamic Binary Search Tree (BST) Simulation Engine built using FastAPI + D3.js, containerized with Docker and deployed on Hugging Face Spaces.
 
 This project allows users to dynamically insert and search numbers while visualizing the tree structure in real time.
+
+---
+
+## 🚀 Live Demo
+
+👉 Add your Hugging Face Space URL here
 
 ---
 
@@ -180,3 +186,13 @@ Impact:
 Enables real-time algorithm visualization and improves understanding of tree data structures.
 
 ---
+
+## 🏆 Resume Line
+
+Developed a full-stack dynamic tree simulation engine with real-time visualization using FastAPI and D3.js, containerized with Docker and deployed on Hugging Face Spaces.
+
+---
+
+## 📜 License
+
+MIT License
